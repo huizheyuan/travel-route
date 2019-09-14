@@ -1,0 +1,11 @@
+1、将getLine.py 文件放到C盘根目录下
+2、使用java -jar 命令运行所有jar包
+	顺序：
+		1、ak.jar
+		2、oneP.jar
+		3、oneC.jar
+		4、otherP.jar
+		5、otherC.jar
+		6、userP.jar
+		7、userC.jar
+		
